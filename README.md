@@ -8,7 +8,8 @@
 
 # Блок-схема
 
-<img width="460" height="840" alt="diagram" src="https://github.com/user-attachments/assets/5d98ae29-f7ae-49ed-9d98-2f7a8cee1b79" />
+<img width="232" height="552" alt="Диаграмма без названия" src="https://github.com/user-attachments/assets/b03cdf98-4b1d-4572-b93e-d87057e5a2e7" />
+
 
 # 2. Реализация программы
 
